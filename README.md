@@ -2,7 +2,7 @@
 ## Business Problem
 
 The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions. They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men? (Assume 50 million customers are male and 50 million are female). The company collected the transactional data of customers who purchased products from the Walmart Stores during Black Friday. 
-Dataset: 
+Dataset: https://github.com/lordchan/Walmart_CLT_HypothesisTesting/blob/main/walmart_dataset.csv
 ## Procedure:
 1. Import the dataset and do usual data analysis steps like checking the structure & characteristics of the dataset.
 2. Detect Null values & Outliers (using boxplot, “describe” method by checking the difference between mean and median, isnull etc.)
